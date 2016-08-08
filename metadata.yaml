@@ -1,0 +1,36 @@
+_repo: The-Night-Horseman_12436
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Brand, Max
+    aliases:
+    - Faust, Frederick Schiller
+    - Frederick, John
+    birthdate: 1892
+    deathdate: 1944
+    gutenberg_agent_id: '743'
+    url: http://www.gutenberg.org/2009/agents/743
+    wikipedia: http://en.wikipedia.org/wiki/Max_Brand
+description: Cover; The Night Horseman; Copyright; CONTENTS; CHAPTER I; THE SCHOLAR;
+  CHAPTER II; WORDS AND BULLETS; CHAPTER III; THE DOCTOR RIDES; CHAPTER IV; THE CHAIN;
+  CHAPTER V; THE WAITING; CHAPTER VI; THE MISSION STARTS; CHAPTER VII; JERRY STRANN;
+  CHAPTER VIII; THE GIFT-HORSE; CHAPTER IX; BATTLE LIGHT; CHAPTER X; ""SWEET ADELINE"";
+  CHAPTER XI; THE BUZZARD; CHAPTER XII; FINESSE; CHAPTER XIII; THE THREE; CHAPTER
+  XIV; MUSIC FOR OLD NICK; CHAPTER XV; OLD GARY PETERS; CHAPTER XVI; THE COMING OF
+  NIGHT; CHAPTER XVII; BUCK MAKES HIS GET-AWAY; CHAPTER XVIII; DOCTOR BYRNE ANALYSES;
+  CHAPTER XIX; SUSPENSE.
+gutenberg_bookshelf: Western
+gutenberg_issued: '2004-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12436'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Western stories'
+- GITenberg
+title: The Night Horseman
+url: http://www.gutenberg.org/ebooks/12436
